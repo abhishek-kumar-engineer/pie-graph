@@ -1,1 +1,1 @@
-# pie-graph see [Deom](https://abhishek950650.github.io/pie-graph/.)
+# pie-graph see [Demo](https://abhishek-kumar-engineer.github.io/pie-graph/.)
